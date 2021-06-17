@@ -17,18 +17,18 @@ It should include the following elements:
 - **Commit often (with good meaningful commit messages), and Push to Github regularly.**
 - Use the sketch below to guide you towards the layout and content you are trying to achieve. _Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page._
 
-  <a href="blog-sketch-week-1.png" target="blank">
-    <img src="blog-sketch-week-1.png" style="border: 1px solid #bababa;">
+  <a href="blog-sketch-week-2.png" target="blank">
+    <img src="blog-sketch-week-2.png" style="border: 1px solid #bababa;">
   </a>
 
 
-## How To Submit Your Coursework
+## How To Submit Your Homework
 
-You should use Git & Github to submit your coursework as a pull request.
+You should use Git & Github to submit your Homework as a pull request.
 
 
 ## Questions & Help 🆘
 
-Not being able to submit your coursework is not an excuse for not doing it.
+Not being able to submit your Homework is not an excuse for not doing it.
 
-If you cannot submit your coursework you **must** message us on Slack to get help.
+If you cannot submit your Homework you **must** message us on Slack to get help.
