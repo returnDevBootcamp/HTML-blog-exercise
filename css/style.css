@@ -1,8 +1,11 @@
-/**
- * Add your custom styles below
- * 
- * Remember: 
- * - Be organised, use comments and separate your styles into meaningful chunks
- *    for example: General styles, Navigation styles, Contanier styles, Footer etc.
- * 
- */
+
+.All{
+text-align: center;
+}
+
+
+footer{
+    margin: 25%;
+width: 50%;
+margin-top: 10px;
+}
