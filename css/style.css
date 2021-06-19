@@ -6,3 +6,26 @@
  *    for example: General styles, Navigation styles, Contanier styles, Footer etc.
  * 
  */
+ p{
+    width: auto;
+ }
+ #main{
+    
+        margin-left: 500px;
+        margin-right: auto;
+        width: 70%;
+        
+      
+ }
+ .center{
+
+        
+        margin-left: 500px;
+        margin-right: auto;
+        width: 70%;
+ }
+ hr{
+   width:80%;
+   text-align:left;
+   margin-left:0"
+ }
