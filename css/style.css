@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+
+body{
+    
+     font-family:'Muli',sans-serif;
+     background-color: goldenrod;
+     
+     margin-left: 500px;
+     
+    
+  }
+
+
+ #first{
+
+font-weight: 200;
+
+ }
+
+footer{
+margin-bottom: auto;
+
+}
+
+
 /**
  * Add your custom styles below
  * 
