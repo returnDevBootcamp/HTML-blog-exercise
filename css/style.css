@@ -6,3 +6,59 @@
  *    for example: General styles, Navigation styles, Contanier styles, Footer etc.
  * 
  */
+ *{
+     margin: 0%;
+     padding: 0;
+     align-items: center;
+
+ }
+ .hero{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    background-image: linear-gradient(315deg, #d5adc8 0% #f5bbbd 74%);
+    
+ }
+
+ .hero h1 {
+    background-color: sandybrown;
+    color: black;
+}
+ 
+pic img {
+    width: 100;
+
+}
+
+.highlight {
+    background-color: rgb(110, 61, 156);
+}
+.pic{
+    
+    margin-left: 500px;
+    margin-right: auto;
+    width: 70;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
