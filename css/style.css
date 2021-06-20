@@ -6,3 +6,79 @@
  *    for example: General styles, Navigation styles, Contanier styles, Footer etc.
  * 
  */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+.navbar {
+  display: flexbox;
+  background-color: grey;
+  border-radius: 20px;
+  margin-top: 15px;
+}
+ul {
+  list-style: none;
+  float: right;
+}
+li {
+}
+li a {
+  display: ;
+  text-decoration: none;
+  padding: 15px;
+}
+.logo {
+  width: 30%;
+  height: 50%;
+}
+
+header {
+  background-color: cadetblue;
+  border-radius: 20px;
+}
+p {
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin: 15px;
+}
+
+h3 {
+  padding-top: 10px;
+}
+
+.image {
+  width: 200px;
+  height: 300px;
+  display: flexbox;
+  margin: 15px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+article {
+  margin: 30px 20px;
+}
+
+.article2 {
+  margin-top: 90px;
+}
+footer {
+  margin: 15px 10px;
+  text-align: center;
+  background-color: brown;
+  border-radius: 20px;
+}
+
+.content {
+  background-color: aqua;
+  border-radius: 20px;
+}
